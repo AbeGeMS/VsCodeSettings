@@ -1,0 +1,10 @@
+{
+    "git.confirmSync": false,
+    "vim.insertModeKeyBindings": [
+        {
+            "before": ["j", "k"],
+            "after": ["<Esc>"]
+        }
+    ],
+    "vim.useSystemClipboard": true
+}
